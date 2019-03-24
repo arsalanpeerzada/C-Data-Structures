@@ -1,0 +1,4 @@
+E:\Programming\lab_test\lab_test\bin\Debug\lab_test.exe
+E:\Programming\lab_test\lab_test\bin\Debug\lab_test.pdb
+E:\Programming\lab_test\lab_test\obj\x86\Debug\lab_test.exe
+E:\Programming\lab_test\lab_test\obj\x86\Debug\lab_test.pdb

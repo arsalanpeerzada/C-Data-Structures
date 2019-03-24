@@ -1,0 +1,4 @@
+E:\Programming\jungle scenario\jungle scenario\bin\Debug\jungle scenario.exe
+E:\Programming\jungle scenario\jungle scenario\bin\Debug\jungle scenario.pdb
+E:\Programming\jungle scenario\jungle scenario\obj\x86\Debug\jungle scenario.exe
+E:\Programming\jungle scenario\jungle scenario\obj\x86\Debug\jungle scenario.pdb

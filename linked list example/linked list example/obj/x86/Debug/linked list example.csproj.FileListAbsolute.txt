@@ -1,0 +1,4 @@
+E:\Programming\linked list example\linked list example\bin\Debug\linked list example.exe
+E:\Programming\linked list example\linked list example\bin\Debug\linked list example.pdb
+E:\Programming\linked list example\linked list example\obj\x86\Debug\linked list example.exe
+E:\Programming\linked list example\linked list example\obj\x86\Debug\linked list example.pdb
