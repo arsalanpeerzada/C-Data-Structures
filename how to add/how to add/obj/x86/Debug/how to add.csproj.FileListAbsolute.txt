@@ -1,0 +1,4 @@
+E:\Programming\how to add\how to add\bin\Debug\how to add.exe
+E:\Programming\how to add\how to add\bin\Debug\how to add.pdb
+E:\Programming\how to add\how to add\obj\x86\Debug\how to add.exe
+E:\Programming\how to add\how to add\obj\x86\Debug\how to add.pdb

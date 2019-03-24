@@ -1,0 +1,5 @@
+E:\Programming\fb\fb\bin\Debug\fb.exe
+E:\Programming\fb\fb\bin\Debug\fb.pdb
+E:\Programming\fb\fb\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming\fb\fb\obj\x86\Debug\fb.exe
+E:\Programming\fb\fb\obj\x86\Debug\fb.pdb

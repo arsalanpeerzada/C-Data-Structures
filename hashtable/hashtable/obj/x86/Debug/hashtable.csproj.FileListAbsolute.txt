@@ -1,0 +1,4 @@
+E:\Programming\hashtable\hashtable\bin\Debug\hashtable.exe
+E:\Programming\hashtable\hashtable\bin\Debug\hashtable.pdb
+E:\Programming\hashtable\hashtable\obj\x86\Debug\hashtable.exe
+E:\Programming\hashtable\hashtable\obj\x86\Debug\hashtable.pdb

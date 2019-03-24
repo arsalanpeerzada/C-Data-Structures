@@ -1,0 +1,4 @@
+E:\Programming\insert\insert\bin\Debug\insert.exe
+E:\Programming\insert\insert\bin\Debug\insert.pdb
+E:\Programming\insert\insert\obj\x86\Debug\insert.exe
+E:\Programming\insert\insert\obj\x86\Debug\insert.pdb
