@@ -1,0 +1,4 @@
+E:\Programming\bank\bank\bin\Debug\bank.exe
+E:\Programming\bank\bank\bin\Debug\bank.pdb
+E:\Programming\bank\bank\obj\x86\Debug\bank.exe
+E:\Programming\bank\bank\obj\x86\Debug\bank.pdb

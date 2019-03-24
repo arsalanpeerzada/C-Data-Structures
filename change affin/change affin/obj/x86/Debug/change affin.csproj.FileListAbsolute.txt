@@ -1,0 +1,4 @@
+E:\Programming\change affin\change affin\bin\Debug\change affin.exe
+E:\Programming\change affin\change affin\bin\Debug\change affin.pdb
+E:\Programming\change affin\change affin\obj\x86\Debug\change affin.exe
+E:\Programming\change affin\change affin\obj\x86\Debug\change affin.pdb

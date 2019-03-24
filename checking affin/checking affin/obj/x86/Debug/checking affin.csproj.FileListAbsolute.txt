@@ -1,0 +1,4 @@
+E:\Programming\checking affin\checking affin\bin\Debug\checking affin.exe
+E:\Programming\checking affin\checking affin\bin\Debug\checking affin.pdb
+E:\Programming\checking affin\checking affin\obj\x86\Debug\checking affin.exe
+E:\Programming\checking affin\checking affin\obj\x86\Debug\checking affin.pdb

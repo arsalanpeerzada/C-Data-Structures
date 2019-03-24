@@ -1,0 +1,4 @@
+E:\Programming\asadkhan\asadkhan\bin\Debug\asadkhan.exe
+E:\Programming\asadkhan\asadkhan\bin\Debug\asadkhan.pdb
+E:\Programming\asadkhan\asadkhan\obj\x86\Debug\asadkhan.exe
+E:\Programming\asadkhan\asadkhan\obj\x86\Debug\asadkhan.pdb
