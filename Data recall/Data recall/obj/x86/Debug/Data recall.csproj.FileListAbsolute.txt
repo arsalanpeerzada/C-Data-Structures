@@ -1,0 +1,8 @@
+E:\Programming\Data recall\Data recall\obj\x86\Debug\Data_recall.Form1.resources
+E:\Programming\Data recall\Data recall\obj\x86\Debug\Data_recall.Properties.Resources.resources
+E:\Programming\Data recall\Data recall\obj\x86\Debug\Data_recall.Show_Member.resources
+E:\Programming\Data recall\Data recall\obj\x86\Debug\Data recall.csproj.GenerateResource.Cache
+E:\Programming\Data recall\Data recall\bin\Debug\Data recall.exe
+E:\Programming\Data recall\Data recall\bin\Debug\Data recall.pdb
+E:\Programming\Data recall\Data recall\obj\x86\Debug\Data recall.exe
+E:\Programming\Data recall\Data recall\obj\x86\Debug\Data recall.pdb

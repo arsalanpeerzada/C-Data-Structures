@@ -1,0 +1,4 @@
+E:\Programming\Destructor\Destructor\bin\Debug\Destructor.exe
+E:\Programming\Destructor\Destructor\bin\Debug\Destructor.pdb
+E:\Programming\Destructor\Destructor\obj\x86\Debug\Destructor.exe
+E:\Programming\Destructor\Destructor\obj\x86\Debug\Destructor.pdb

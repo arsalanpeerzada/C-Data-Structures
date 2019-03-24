@@ -1,0 +1,4 @@
+E:\Programming\ds assignment 2\ds assignment 2\bin\Debug\ds assignment 2.exe
+E:\Programming\ds assignment 2\ds assignment 2\bin\Debug\ds assignment 2.pdb
+E:\Programming\ds assignment 2\ds assignment 2\obj\x86\Debug\ds assignment 2.exe
+E:\Programming\ds assignment 2\ds assignment 2\obj\x86\Debug\ds assignment 2.pdb

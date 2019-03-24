@@ -1,0 +1,6 @@
+E:\Programming\DiscoWorld\DiscoWorld\DiscoWorld\bin\x86\Debug\DiscoWorld.exe
+E:\Programming\DiscoWorld\DiscoWorld\DiscoWorld\bin\x86\Debug\DiscoWorld.pdb
+E:\Programming\DiscoWorld\DiscoWorld\DiscoWorld\obj\x86\Debug\DiscoWorld.csprojResolveAssemblyReference.cache
+E:\Programming\DiscoWorld\DiscoWorld\DiscoWorld\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programming\DiscoWorld\DiscoWorld\DiscoWorld\obj\x86\Debug\DiscoWorld.exe
+E:\Programming\DiscoWorld\DiscoWorld\DiscoWorld\obj\x86\Debug\DiscoWorld.pdb

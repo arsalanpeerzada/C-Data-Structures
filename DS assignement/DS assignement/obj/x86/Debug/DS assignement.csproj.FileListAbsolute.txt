@@ -1,0 +1,5 @@
+E:\Programming\DS assignement\DS assignement\bin\Debug\DS assignement.exe
+E:\Programming\DS assignement\DS assignement\bin\Debug\DS assignement.pdb
+E:\Programming\DS assignement\DS assignement\obj\x86\Debug\DS assignement.exe
+E:\Programming\DS assignement\DS assignement\obj\x86\Debug\DS assignement.pdb
+E:\Programming\DS assignement\DS assignement\obj\x86\Debug\DS assignement.csprojResolveAssemblyReference.cache

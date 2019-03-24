@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscoWorld", "DiscoWorld\DiscoWorld\DiscoWorld.csproj", "{CDF50939-8E7B-4849-B5AD-9E20E6B9C114}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "DiscoWorldContent", "DiscoWorld\DiscoWorldContent\DiscoWorldContent.contentproj", "{A833995F-3464-4221-97AA-39182E81AE2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF50939-8E7B-4849-B5AD-9E20E6B9C114}.Debug|x86.ActiveCfg = Debug|x86
+		{CDF50939-8E7B-4849-B5AD-9E20E6B9C114}.Debug|x86.Build.0 = Debug|x86
+		{CDF50939-8E7B-4849-B5AD-9E20E6B9C114}.Release|x86.ActiveCfg = Release|x86
+		{CDF50939-8E7B-4849-B5AD-9E20E6B9C114}.Release|x86.Build.0 = Release|x86
+		{A833995F-3464-4221-97AA-39182E81AE2D}.Debug|x86.ActiveCfg = Debug|x86
+		{A833995F-3464-4221-97AA-39182E81AE2D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
