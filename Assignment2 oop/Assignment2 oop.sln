@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M1", "Assignment2 oop\M1.csproj", "{5315BBFE-2355-4E5B-BA28-D7F4A13D23E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2", "M2\M2.csproj", "{51F0AF3B-042A-47A8-A271-DD446B7E9D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5315BBFE-2355-4E5B-BA28-D7F4A13D23E3}.Debug|x86.ActiveCfg = Debug|x86
+		{5315BBFE-2355-4E5B-BA28-D7F4A13D23E3}.Debug|x86.Build.0 = Debug|x86
+		{5315BBFE-2355-4E5B-BA28-D7F4A13D23E3}.Release|x86.ActiveCfg = Release|x86
+		{5315BBFE-2355-4E5B-BA28-D7F4A13D23E3}.Release|x86.Build.0 = Release|x86
+		{51F0AF3B-042A-47A8-A271-DD446B7E9D56}.Debug|x86.ActiveCfg = Debug|x86
+		{51F0AF3B-042A-47A8-A271-DD446B7E9D56}.Debug|x86.Build.0 = Debug|x86
+		{51F0AF3B-042A-47A8-A271-DD446B7E9D56}.Release|x86.ActiveCfg = Release|x86
+		{51F0AF3B-042A-47A8-A271-DD446B7E9D56}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -9,14 +9,28 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-           // string name=Console.ReadLine();
-            //int age=Convert.ToInt32(Console.ReadLine());
-            //string course=Console.ReadLine();
 
-            //Class1 obj = new Class1(" Osama ", 20, " BS_CS");
+            int[] a = new int[5];
+            a[0] = 6;
+            a[1] = 9;
+            a[2] = 3;
+            a[3] = 4;
+            a[4] = 6;
 
-            string name = Console.ReadLine();
-            Console.WriteLine(name);
+            for (int i = 0; i <a.Length; i++)
+            {
+                if (a[i]==12)
+                {
+                    Console.WriteLine(6 +"  found at position  "+ (i+1));
+                }
+                else
+                {
+                    Console.WriteLine("Number not found !");
+                    break;
+                }
+            }
+
+
         }
     }
 }
