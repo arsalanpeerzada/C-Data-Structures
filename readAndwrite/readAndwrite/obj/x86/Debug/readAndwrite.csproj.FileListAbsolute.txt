@@ -1,0 +1,5 @@
+c:\users\7112\documents\visual studio 2010\Projects\readAndwrite\readAndwrite\bin\Debug\readAndwrite.exe
+c:\users\7112\documents\visual studio 2010\Projects\readAndwrite\readAndwrite\bin\Debug\readAndwrite.pdb
+c:\users\7112\documents\visual studio 2010\Projects\readAndwrite\readAndwrite\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\7112\documents\visual studio 2010\Projects\readAndwrite\readAndwrite\obj\x86\Debug\readAndwrite.exe
+c:\users\7112\documents\visual studio 2010\Projects\readAndwrite\readAndwrite\obj\x86\Debug\readAndwrite.pdb

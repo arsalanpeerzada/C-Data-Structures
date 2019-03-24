@@ -1,0 +1,5 @@
+c:\users\7112\documents\visual studio 2010\Projects\insertionsort\insertionsort\bin\Debug\insertionsort.exe
+c:\users\7112\documents\visual studio 2010\Projects\insertionsort\insertionsort\bin\Debug\insertionsort.pdb
+c:\users\7112\documents\visual studio 2010\Projects\insertionsort\insertionsort\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\7112\documents\visual studio 2010\Projects\insertionsort\insertionsort\obj\x86\Debug\insertionsort.exe
+c:\users\7112\documents\visual studio 2010\Projects\insertionsort\insertionsort\obj\x86\Debug\insertionsort.pdb
