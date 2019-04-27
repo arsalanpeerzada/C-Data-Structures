@@ -1,0 +1,10 @@
+E:\Programming\regex 1\regex 1\bin\Debug\regex 1.exe
+E:\Programming\regex 1\regex 1\bin\Debug\regex 1.pdb
+E:\Programming\regex 1\regex 1\obj\x86\Debug\regex 1.exe
+E:\Programming\regex 1\regex 1\obj\x86\Debug\regex 1.pdb
+E:\Programming\regex 1\regex 1\obj\x86\Debug\regex 1.csprojResolveAssemblyReference.cache
+E:\arsalan\MyC#Practice\DS Programming\regex 1\regex 1\obj\x86\Debug\regex 1.exe
+E:\arsalan\MyC#Practice\DS Programming\regex 1\regex 1\obj\x86\Debug\regex 1.pdb
+E:\arsalan\MyC#Practice\DS Programming\regex 1\regex 1\bin\Debug\regex 1.exe
+E:\arsalan\MyC#Practice\DS Programming\regex 1\regex 1\bin\Debug\regex 1.pdb
+E:\arsalan\MyC#Practice\DS Programming\regex 1\regex 1\obj\x86\Debug\regex 1.csprojResolveAssemblyReference.cache

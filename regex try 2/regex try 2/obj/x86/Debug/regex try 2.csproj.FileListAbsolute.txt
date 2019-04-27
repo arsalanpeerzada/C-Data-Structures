@@ -1,0 +1,5 @@
+E:\Programming\regex try 2\regex try 2\bin\Debug\regex try 2.exe
+E:\Programming\regex try 2\regex try 2\bin\Debug\regex try 2.pdb
+E:\Programming\regex try 2\regex try 2\obj\x86\Debug\regex try 2.exe
+E:\Programming\regex try 2\regex try 2\obj\x86\Debug\regex try 2.pdb
+E:\Programming\regex try 2\regex try 2\obj\x86\Debug\regex try 2.csprojResolveAssemblyReference.cache

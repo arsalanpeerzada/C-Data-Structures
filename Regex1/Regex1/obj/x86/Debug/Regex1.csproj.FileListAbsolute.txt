@@ -1,0 +1,5 @@
+E:\Programming\Regex1\Regex1\bin\Debug\Regex1.exe
+E:\Programming\Regex1\Regex1\bin\Debug\Regex1.pdb
+E:\Programming\Regex1\Regex1\obj\x86\Debug\Regex1.exe
+E:\Programming\Regex1\Regex1\obj\x86\Debug\Regex1.pdb
+E:\Programming\Regex1\Regex1\obj\x86\Debug\Regex1.csprojResolveAssemblyReference.cache

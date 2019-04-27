@@ -1,0 +1,5 @@
+E:\Programming\target searcher\target searcher\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming\target searcher\target searcher\bin\Debug\target searcher.exe
+E:\Programming\target searcher\target searcher\bin\Debug\target searcher.pdb
+E:\Programming\target searcher\target searcher\obj\x86\Debug\target searcher.exe
+E:\Programming\target searcher\target searcher\obj\x86\Debug\target searcher.pdb

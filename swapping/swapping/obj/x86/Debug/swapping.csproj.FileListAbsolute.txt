@@ -1,0 +1,4 @@
+E:\Programming\swapping\swapping\bin\Debug\swapping.exe
+E:\Programming\swapping\swapping\bin\Debug\swapping.pdb
+E:\Programming\swapping\swapping\obj\x86\Debug\swapping.exe
+E:\Programming\swapping\swapping\obj\x86\Debug\swapping.pdb
