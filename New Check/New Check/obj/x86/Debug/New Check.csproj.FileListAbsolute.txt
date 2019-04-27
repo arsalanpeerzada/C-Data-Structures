@@ -1,0 +1,4 @@
+E:\Programming\New Check\New Check\bin\Debug\New Check.exe
+E:\Programming\New Check\New Check\bin\Debug\New Check.pdb
+E:\Programming\New Check\New Check\obj\x86\Debug\New Check.exe
+E:\Programming\New Check\New Check\obj\x86\Debug\New Check.pdb

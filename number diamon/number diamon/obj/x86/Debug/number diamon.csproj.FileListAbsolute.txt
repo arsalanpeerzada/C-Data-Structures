@@ -1,0 +1,4 @@
+E:\Programming\number diamon\number diamon\bin\Debug\number diamon.exe
+E:\Programming\number diamon\number diamon\bin\Debug\number diamon.pdb
+E:\Programming\number diamon\number diamon\obj\x86\Debug\number diamon.exe
+E:\Programming\number diamon\number diamon\obj\x86\Debug\number diamon.pdb

@@ -1,0 +1,4 @@
+E:\Programming\project\project\bin\Debug\project.exe
+E:\Programming\project\project\bin\Debug\project.pdb
+E:\Programming\project\project\obj\x86\Debug\project.exe
+E:\Programming\project\project\obj\x86\Debug\project.pdb

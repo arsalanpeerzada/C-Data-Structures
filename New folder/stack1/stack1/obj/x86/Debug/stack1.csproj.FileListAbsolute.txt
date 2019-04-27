@@ -1,0 +1,7 @@
+C:\Users\7087\Desktop\stack1\stack1\bin\Debug\stack1.exe
+C:\Users\7087\Desktop\stack1\stack1\bin\Debug\stack1.pdb
+C:\Users\7087\Desktop\stack1\stack1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\7087\Desktop\stack1\stack1\obj\x86\Debug\stack1.exe
+C:\Users\7087\Desktop\stack1\stack1\obj\x86\Debug\stack1.pdb
+E:\Programming\New folder\stack1\stack1\obj\x86\Debug\stack1.exe
+E:\Programming\New folder\stack1\stack1\obj\x86\Debug\stack1.pdb
