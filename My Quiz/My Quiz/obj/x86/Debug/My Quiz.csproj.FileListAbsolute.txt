@@ -1,0 +1,10 @@
+E:\Programming\My Quiz\My Quiz\bin\Debug\My Quiz.exe
+E:\Programming\My Quiz\My Quiz\bin\Debug\My Quiz.pdb
+E:\Programming\My Quiz\My Quiz\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming\My Quiz\My Quiz\obj\x86\Debug\My_Quiz.Form1.resources
+E:\Programming\My Quiz\My Quiz\obj\x86\Debug\My_Quiz.Properties.Resources.resources
+E:\Programming\My Quiz\My Quiz\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programming\My Quiz\My Quiz\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programming\My Quiz\My Quiz\obj\x86\Debug\My Quiz.exe
+E:\Programming\My Quiz\My Quiz\obj\x86\Debug\My Quiz.pdb
+E:\Programming\My Quiz\My Quiz\obj\x86\Debug\My_Quiz.Form2.resources

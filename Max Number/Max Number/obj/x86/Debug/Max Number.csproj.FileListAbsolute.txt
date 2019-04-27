@@ -1,0 +1,5 @@
+E:\Programming\Max Number\Max Number\bin\Debug\Max Number.exe
+E:\Programming\Max Number\Max Number\bin\Debug\Max Number.pdb
+E:\Programming\Max Number\Max Number\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming\Max Number\Max Number\obj\x86\Debug\Max Number.exe
+E:\Programming\Max Number\Max Number\obj\x86\Debug\Max Number.pdb

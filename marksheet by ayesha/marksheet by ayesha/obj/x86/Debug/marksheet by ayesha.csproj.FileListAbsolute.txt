@@ -1,0 +1,5 @@
+E:\Programming\marksheet by ayesha\marksheet by ayesha\bin\Debug\marksheet by ayesha.exe
+E:\Programming\marksheet by ayesha\marksheet by ayesha\bin\Debug\marksheet by ayesha.pdb
+E:\Programming\marksheet by ayesha\marksheet by ayesha\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming\marksheet by ayesha\marksheet by ayesha\obj\x86\Debug\marksheet by ayesha.exe
+E:\Programming\marksheet by ayesha\marksheet by ayesha\obj\x86\Debug\marksheet by ayesha.pdb

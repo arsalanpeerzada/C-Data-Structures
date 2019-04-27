@@ -1,0 +1,4 @@
+E:\Programming\math library\math library\bin\Debug\math library.exe
+E:\Programming\math library\math library\bin\Debug\math library.pdb
+E:\Programming\math library\math library\obj\x86\Debug\math library.exe
+E:\Programming\math library\math library\obj\x86\Debug\math library.pdb
