@@ -1,0 +1,5 @@
+E:\Programming\quickSort Assignment\quickSort Assignment\bin\Debug\quickSort Assignment.exe
+E:\Programming\quickSort Assignment\quickSort Assignment\bin\Debug\quickSort Assignment.pdb
+E:\Programming\quickSort Assignment\quickSort Assignment\obj\x86\Debug\quickSort Assignment.exe
+E:\Programming\quickSort Assignment\quickSort Assignment\obj\x86\Debug\quickSort Assignment.pdb
+E:\Programming\quickSort Assignment\quickSort Assignment\obj\x86\Debug\quickSort Assignment.csprojResolveAssemblyReference.cache

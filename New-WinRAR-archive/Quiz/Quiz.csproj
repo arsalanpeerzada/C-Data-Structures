@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{629014AC-9517-450D-B821-79B38C3F3BA6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Quiz</RootNamespace>
+    <AssemblyName>Quiz</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Question 01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question 01.Designer.cs">
+      <DependentUpon>Question 01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question 02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question 02.Designer.cs">
+      <DependentUpon>Question 02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question 03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question 03.Designer.cs">
+      <DependentUpon>Question 03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question 04.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question 04.Designer.cs">
+      <DependentUpon>Question 04.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question 05.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question 05.Designer.cs">
+      <DependentUpon>Question 05.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question 06.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question 06.Designer.cs">
+      <DependentUpon>Question 06.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question 07.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question 07.Designer.cs">
+      <DependentUpon>Question 07.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question 08.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question 08.Designer.cs">
+      <DependentUpon>Question 08.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question 09.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question 09.Designer.cs">
+      <DependentUpon>Question 09.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Question 10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Question 10.Designer.cs">
+      <DependentUpon>Question 10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Result Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result Form.Designer.cs">
+      <DependentUpon>Result Form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Question 01.resx">
+      <DependentUpon>Question 01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question 02.resx">
+      <DependentUpon>Question 02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question 03.resx">
+      <DependentUpon>Question 03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question 04.resx">
+      <DependentUpon>Question 04.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question 05.resx">
+      <DependentUpon>Question 05.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question 06.resx">
+      <DependentUpon>Question 06.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question 07.resx">
+      <DependentUpon>Question 07.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question 08.resx">
+      <DependentUpon>Question 08.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question 09.resx">
+      <DependentUpon>Question 09.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question 10.resx">
+      <DependentUpon>Question 10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Result Form.resx">
+      <DependentUpon>Result Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,4 @@
+E:\Programming\reading and writing\reading and writing\bin\Debug\reading and writing.exe
+E:\Programming\reading and writing\reading and writing\bin\Debug\reading and writing.pdb
+E:\Programming\reading and writing\reading and writing\obj\x86\Debug\reading and writing.exe
+E:\Programming\reading and writing\reading and writing\obj\x86\Debug\reading and writing.pdb
