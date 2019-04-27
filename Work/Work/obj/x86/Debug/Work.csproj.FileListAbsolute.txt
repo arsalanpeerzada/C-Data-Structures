@@ -1,0 +1,4 @@
+E:\Programming\Work\Work\bin\Debug\Work.exe
+E:\Programming\Work\Work\bin\Debug\Work.pdb
+E:\Programming\Work\Work\obj\x86\Debug\Work.exe
+E:\Programming\Work\Work\obj\x86\Debug\Work.pdb

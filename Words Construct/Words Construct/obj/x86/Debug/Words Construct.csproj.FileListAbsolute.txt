@@ -1,0 +1,4 @@
+E:\Programming\Words Construct\Words Construct\bin\Debug\Words Construct.exe
+E:\Programming\Words Construct\Words Construct\bin\Debug\Words Construct.pdb
+E:\Programming\Words Construct\Words Construct\obj\x86\Debug\Words Construct.exe
+E:\Programming\Words Construct\Words Construct\obj\x86\Debug\Words Construct.pdb

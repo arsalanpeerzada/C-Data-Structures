@@ -1,0 +1,4 @@
+E:\Programming\words breaking\words breaking\bin\Debug\words breaking.exe
+E:\Programming\words breaking\words breaking\bin\Debug\words breaking.pdb
+E:\Programming\words breaking\words breaking\obj\x86\Debug\words breaking.exe
+E:\Programming\words breaking\words breaking\obj\x86\Debug\words breaking.pdb
