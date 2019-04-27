@@ -1,0 +1,4 @@
+E:\Programming\traversing array\traversing array\bin\Debug\traversing array.exe
+E:\Programming\traversing array\traversing array\bin\Debug\traversing array.pdb
+E:\Programming\traversing array\traversing array\obj\x86\Debug\traversing array.exe
+E:\Programming\traversing array\traversing array\obj\x86\Debug\traversing array.pdb

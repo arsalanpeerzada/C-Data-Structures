@@ -1,0 +1,5 @@
+E:\Programming\try\try\bin\Debug\@try.exe
+E:\Programming\try\try\bin\Debug\@try.pdb
+E:\Programming\try\try\obj\x86\Debug\@try.exe
+E:\Programming\try\try\obj\x86\Debug\@try.pdb
+E:\Programming\try\try\obj\x86\Debug\try.csprojResolveAssemblyReference.cache

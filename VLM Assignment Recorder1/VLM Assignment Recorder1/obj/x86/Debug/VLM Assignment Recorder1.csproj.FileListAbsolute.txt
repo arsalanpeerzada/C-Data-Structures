@@ -1,0 +1,9 @@
+E:\Programming\VLM Assignment Recorder1\VLM Assignment Recorder1\obj\x86\Debug\VLM_Assignment_Recorder1.Form1.resources
+E:\Programming\VLM Assignment Recorder1\VLM Assignment Recorder1\obj\x86\Debug\VLM_Assignment_Recorder1.Properties.Resources.resources
+E:\Programming\VLM Assignment Recorder1\VLM Assignment Recorder1\obj\x86\Debug\VLM Assignment Recorder1.csproj.GenerateResource.Cache
+E:\Programming\VLM Assignment Recorder1\VLM Assignment Recorder1\bin\Debug\VLM Assignment Recorder1.exe
+E:\Programming\VLM Assignment Recorder1\VLM Assignment Recorder1\bin\Debug\VLM Assignment Recorder1.pdb
+E:\Programming\VLM Assignment Recorder1\VLM Assignment Recorder1\obj\x86\Debug\VLM Assignment Recorder1.exe
+E:\Programming\VLM Assignment Recorder1\VLM Assignment Recorder1\obj\x86\Debug\VLM Assignment Recorder1.pdb
+F:\arsalan\MyC#Practice\DS Programming\VLM Assignment Recorder1\VLM Assignment Recorder1\obj\x86\Debug\VLM Assignment Recorder1.exe
+F:\arsalan\MyC#Practice\DS Programming\VLM Assignment Recorder1\VLM Assignment Recorder1\obj\x86\Debug\VLM Assignment Recorder1.pdb
