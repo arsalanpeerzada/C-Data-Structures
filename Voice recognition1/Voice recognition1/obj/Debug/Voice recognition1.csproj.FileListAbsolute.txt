@@ -1,0 +1,9 @@
+E:\Programming\Voice recognition1\Voice recognition1\bin\Debug\Voice recognition1.exe.config
+E:\Programming\Voice recognition1\Voice recognition1\bin\Debug\Voice recognition1.exe
+E:\Programming\Voice recognition1\Voice recognition1\bin\Debug\Voice recognition1.pdb
+E:\Programming\Voice recognition1\Voice recognition1\obj\Debug\Voice recognition1.csprojResolveAssemblyReference.cache
+E:\Programming\Voice recognition1\Voice recognition1\obj\Debug\Voice_recognition1.Form1.resources
+E:\Programming\Voice recognition1\Voice recognition1\obj\Debug\Voice_recognition1.Properties.Resources.resources
+E:\Programming\Voice recognition1\Voice recognition1\obj\Debug\Voice recognition1.csproj.GenerateResource.Cache
+E:\Programming\Voice recognition1\Voice recognition1\obj\Debug\Voice recognition1.exe
+E:\Programming\Voice recognition1\Voice recognition1\obj\Debug\Voice recognition1.pdb

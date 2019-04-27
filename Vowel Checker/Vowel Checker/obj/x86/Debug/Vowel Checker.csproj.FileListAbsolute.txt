@@ -1,0 +1,4 @@
+E:\Programming\Vowel Checker\Vowel Checker\bin\Debug\Vowel Checker.exe
+E:\Programming\Vowel Checker\Vowel Checker\bin\Debug\Vowel Checker.pdb
+E:\Programming\Vowel Checker\Vowel Checker\obj\x86\Debug\Vowel Checker.exe
+E:\Programming\Vowel Checker\Vowel Checker\obj\x86\Debug\Vowel Checker.pdb

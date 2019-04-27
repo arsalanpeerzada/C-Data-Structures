@@ -1,0 +1,6 @@
+E:\Programming\waqar bhai lab test new\waqar bhai lab test new\bin\Debug\waqar bhai lab test new.exe
+E:\Programming\waqar bhai lab test new\waqar bhai lab test new\bin\Debug\waqar bhai lab test new.pdb
+E:\Programming\waqar bhai lab test new\waqar bhai lab test new\obj\x86\Debug\waqar bhai lab test new.exe
+E:\Programming\waqar bhai lab test new\waqar bhai lab test new\obj\x86\Debug\waqar bhai lab test new.pdb
+F:\arsalan\MyC#Practice\DS Programming\waqar bhai lab test new\waqar bhai lab test new\obj\x86\Debug\waqar bhai lab test new.exe
+F:\arsalan\MyC#Practice\DS Programming\waqar bhai lab test new\waqar bhai lab test new\obj\x86\Debug\waqar bhai lab test new.pdb
