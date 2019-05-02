@@ -1,0 +1,6 @@
+E:\arsalan\MyC#Practice\practice\awein practice\awein practice\bin\Debug\awein practice.exe.config
+E:\arsalan\MyC#Practice\practice\awein practice\awein practice\bin\Debug\awein practice.exe
+E:\arsalan\MyC#Practice\practice\awein practice\awein practice\bin\Debug\awein practice.pdb
+E:\arsalan\MyC#Practice\practice\awein practice\awein practice\obj\Debug\awein practice.csprojResolveAssemblyReference.cache
+E:\arsalan\MyC#Practice\practice\awein practice\awein practice\obj\Debug\awein practice.exe
+E:\arsalan\MyC#Practice\practice\awein practice\awein practice\obj\Debug\awein practice.pdb
